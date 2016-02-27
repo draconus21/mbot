@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "bot")
+set(bot_MAINTAINER "neeth <neeth@todo.todo>")
+set(bot_DEPRECATED "")
+set(bot_VERSION "0.0.0")
+set(bot_BUILD_DEPENDS "geometry_msgs" "message_generation" "roscpp" "rospy" "sensor_msgs")
+set(bot_RUN_DEPENDS "geometry_msgs" "roscpp" "rospy" "sensor_msgs")
+set(bot_BUILDTOOL_DEPENDS "catkin")

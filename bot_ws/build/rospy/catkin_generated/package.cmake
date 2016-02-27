@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "rospy")
+set(rospy_MAINTAINER "neeth <neeth@todo.todo>")
+set(rospy_DEPRECATED "")
+set(rospy_VERSION "0.0.0")
+set(rospy_BUILD_DEPENDS "geometry_msgs" "message_generation" "roscpp" "sensor_msgs")
+set(rospy_RUN_DEPENDS "geometry_msgs" "roscpp" "sensor_msgs")
+set(rospy_BUILDTOOL_DEPENDS "catkin")

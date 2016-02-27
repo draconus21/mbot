@@ -1,0 +1,8 @@
+prefix=/home/neeth/Winter 2016/Mobile Robotics/mbot/mbot/bot_ws/devel
+
+Name: rospy
+Description: Description of rospy
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/neeth/Winter 2016/Mobile Robotics/mbot/mbot/bot_ws/devel/lib 
+Requires: 
